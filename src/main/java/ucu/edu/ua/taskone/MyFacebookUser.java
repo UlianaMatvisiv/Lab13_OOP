@@ -2,7 +2,7 @@ package ucu.edu.ua.taskone;
 
 import java.time.LocalDate;
 
-public class MyFacebookUser implements User{
+public class MyFacebookUser implements User {
     private FacebookUser facebookUser;
 
     public MyFacebookUser(FacebookUser facebookUser) {
